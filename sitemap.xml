@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://os-zamok-ternopil.com.ua/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://os-zamok-ternopil.com.ua/remont-zamka</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://os-zamok-ternopil.com.ua/avariyne-vidkryvannya</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://os-zamok-ternopil.com.ua/zamina-zamka</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
